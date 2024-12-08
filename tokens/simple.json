@@ -1,0 +1,16 @@
+{
+  "token": {
+    "spacer": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "gap": {
+      "value": "{token.spacer}",
+      "type": "dimension"
+    },
+    "button-gap": {
+      "value": "{token.gap}",
+      "type": "dimension"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <dimen name="token_spacer">192.00dp</dimen>
+  <dimen name="token_gap">192.00dp</dimen>
+  <dimen name="token_button_gap">192.00dp</dimen>
+</resources>

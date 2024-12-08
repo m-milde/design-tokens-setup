@@ -1,0 +1,33 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --kipmi-brand-secondary-200: #a9b8cc;
+  --kipmi-neutral-0: #ffffff;
+  --kipmi-negative-100: #d21616;
+  --kipmi-brand-primary-100: #5638e5;
+  --kipmi-brand-gradinet-color-1: #5638e5;
+  --kipmi-brand-gradinet-color-2: #6e04d8;
+  --kipmi-size-50: 50px;
+  --kipmi-space-2: 8px;
+  --kipmi-space-5: 16px;
+  --kipmi-border-radius-4: 100;
+  --kipmi-brand-font-family-2: inter;
+  --kipmi-font-size-3: 15px;
+  --kipmi-font-weight-400: 400;
+  --kipmi-font-family-android: inter;
+  --kipmi-font-weight-regular: 400;
+  --kipmi-gap-8: 8px;
+  --kipmi-accent-brand-default: #5638e5;
+  --kipmi-padding-16: 16px;
+  --kipmi-border-radius-full: 100;
+  --kipmi-fontsize-15: 15px;
+  --kipmi-components-button-font-size: 15px;
+  --kipmi-components-button-font-weight: 400;
+  --kipmi-components-button-font-family: inter;
+  --kipmi-components-button-gap: 8px;
+  --kipmi-components-button-height: 50px;
+  --kipmi-components-button-padding-x: 16px;
+  --kipmi-components-button-radius: 100;
+}
