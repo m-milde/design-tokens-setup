@@ -1,6 +1,23 @@
 
 // Do not edit directly, this file was auto-generated.
 
-$space-root-spacer: 15rem;
+$space-root-spacer: 10px;
+$root-font-size-font-size-1: 12px;
+$root-font-size-font-size-2: 14px;
+$root-font-size-font-size-3: 15px;
+$root-font-size-font-size-4: 16px;
+$root-font-size-font-size-5: 18px;
+$root-font-size-font-size-6: 20px;
+$root-font-size-font-size-7: 24px;
+$root-font-size-font-size-8: 30px;
 $space-semantic-gap: $space-root-spacer;
+$alias-font-size-font-size-12: $root-font-size-font-size-1;
+$alias-font-size-font-size-14: $root-font-size-font-size-2;
+$alias-font-size-font-size-15: $root-font-size-font-size-3;
+$alias-font-size-font-size-16: $root-font-size-font-size-4;
+$alias-font-size-font-size-18: $root-font-size-font-size-5;
+$alias-font-size-font-size-20: $root-font-size-font-size-6;
+$alias-font-size-font-size-24: $root-font-size-font-size-7;
+$alias-font-size-font-size-30: $root-font-size-font-size-8;
 $space-component-button-gap: $space-semantic-gap;
+$card-main-text-font-size: $alias-font-size-font-size-16;

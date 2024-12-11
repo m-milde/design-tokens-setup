@@ -2,7 +2,7 @@
   "space-root": {
     "spacer": {
       "type": "dimension",
-      "value": 30
+      "value": 15
     }
   },
   "space-semantic": {

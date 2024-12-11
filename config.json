@@ -4,6 +4,7 @@
       "web": {
         "transformGroup": "scss",
         "buildPath": "build/web/",
+        "transforms": ["size/px"],
         "files": [
           {
             "destination": "variables.scss",
