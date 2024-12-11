@@ -4,20 +4,7 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <dimen name="root_font_size_font_size_1">192.00dp</dimen>
-  <dimen name="root_font_size_font_size_2">224.00dp</dimen>
-  <dimen name="root_font_size_font_size_3">240.00dp</dimen>
-  <dimen name="root_font_size_font_size_4">256.00dp</dimen>
-  <dimen name="root_font_size_font_size_5">288.00dp</dimen>
-  <dimen name="root_font_size_font_size_6">320.00dp</dimen>
-  <dimen name="root_font_size_font_size_7">384.00dp</dimen>
-  <dimen name="root_font_size_font_size_8">480.00dp</dimen>
-  <dimen name="alias_font_size_font_size_12">@dimen/root_font_size_font_size_1</dimen>
-  <dimen name="alias_font_size_font_size_14">@dimen/root_font_size_font_size_2</dimen>
-  <dimen name="alias_font_size_font_size_15">@dimen/root_font_size_font_size_3</dimen>
-  <dimen name="alias_font_size_font_size_16">@dimen/root_font_size_font_size_4</dimen>
-  <dimen name="alias_font_size_font_size_18">@dimen/root_font_size_font_size_5</dimen>
-  <dimen name="alias_font_size_font_size_20">@dimen/root_font_size_font_size_6</dimen>
-  <dimen name="alias_font_size_font_size_24">@dimen/root_font_size_font_size_7</dimen>
-  <dimen name="alias_font_size_font_size_30">@dimen/root_font_size_font_size_8</dimen>
+  <dimen name="space_root_spacer">240.00dp</dimen>
+  <dimen name="space_semantic_gap">@dimen/space_root_spacer</dimen>
+  <color name="space_component_button_gap">@color/space_semantic_gap</color>
 </resources>
