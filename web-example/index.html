@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Design token test</title>
+    <link rel="stylesheet" href="../build/web/variables.css">
+  </head>
+  <style>
+
+    body{
+      background-color: #eeeeee;
+    }
+
+      button {
+        display: block;
+        margin: 10rem auto;
+        padding: var( --spacing-mapped-btn-l-padding-y) var( --spacing-mapped-btn-l-padding-x);
+        border: none;
+        background-color: var(--colors-mapped-btn-primary-bg-color);
+        font-size: 1.25rem;
+        border-radius: var(--border-radius-mapped-btn-border-radius);
+      }
+  </style>
+  <body>
+    <button>Button text</button>
+  </body>
+</html>

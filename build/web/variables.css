@@ -1,0 +1,9 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --space-root-spacer: 10px;
+  --space-semantic-gap: var(--space-root-spacer);
+  --space-component-button-gap: var(--space-semantic-gap);
+}
