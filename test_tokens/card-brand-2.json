@@ -1,0 +1,340 @@
+{
+  "color-2-root": {
+    "forth": {
+      "type": "color",
+      "value": "#d9d5e9ff",
+      "blendMode": "normal"
+    },
+    "third": {
+      "type": "color",
+      "value": "#5b5670ff",
+      "blendMode": "normal"
+    },
+    "secondary": {
+      "type": "color",
+      "value": "#413250ff",
+      "blendMode": "normal"
+    },
+    "primary": {
+      "type": "color",
+      "value": "#ccf0ffff",
+      "blendMode": "normal"
+    }
+  },
+  "color-2-mapped": {
+    "input-text-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.forth}"
+    },
+    "button-text-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.secondary}"
+    },
+    "input-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.third}"
+    },
+    "button-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.primary}"
+    },
+    "text-color-default": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.forth}"
+    },
+    "card-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-2-root.secondary}"
+    }
+  },
+  "border-radius-2-root": {
+    "border-radius-m": {
+      "type": "dimension",
+      "value": 5
+    },
+    "border-radius-s": {
+      "type": "dimension",
+      "value": 3
+    }
+  },
+  "font-family-2-root": {
+    "font-family-secondary": {
+      "type": "string",
+      "value": "Inter"
+    },
+    "font-family-primary": {
+      "type": "string",
+      "value": "Montserrat Subrayada"
+    }
+  },
+  "font-family-2-mapped": {
+    "heading-font-family": {
+      "description": "",
+      "type": "string",
+      "value": "{font-family-2-root.font-family-primary}"
+    },
+    "default-font-family": {
+      "description": "",
+      "type": "string",
+      "value": "{font-family-2-root.font-family-secondary}"
+    },
+    "button-font-family": {
+      "description": "",
+      "type": "string",
+      "value": "{font-family-2-root.font-family-primary}"
+    }
+  },
+  "border-radius-2-mapped": {
+    "input-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-2-root.border-radius-s}"
+    },
+    "button-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-2-root.border-radius-s}"
+    },
+    "card-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-2-root.border-radius-m}"
+    }
+  },
+  "font-size-2-root": {
+    "font-size-m": {
+      "type": "dimension",
+      "value": 20
+    },
+    "font-size-l": {
+      "type": "dimension",
+      "value": 22
+    },
+    "font-seze-xl": {
+      "type": "dimension",
+      "value": 36
+    }
+  },
+  "font-size-2-mapped": {
+    "button-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-2-root.font-size-m}"
+    },
+    "input-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-2-root.font-size-l}"
+    },
+    "heading-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-2-root.font-seze-xl}"
+    }
+  },
+  "spacer-2-root": {
+    "space-2xs": {
+      "type": "dimension",
+      "value": 14
+    },
+    "space-xs": {
+      "type": "dimension",
+      "value": 16
+    },
+    "space-2xl": {
+      "type": "dimension",
+      "value": 54
+    },
+    "space-xl": {
+      "type": "dimension",
+      "value": 52
+    },
+    "space-s": {
+      "type": "dimension",
+      "value": 22
+    },
+    "space-m": {
+      "type": "dimension",
+      "value": 36
+    },
+    "space-l": {
+      "type": "dimension",
+      "value": 42
+    }
+  },
+  "spacer-2-mapped": {
+    "form-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-m}"
+    },
+    "input-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-s}"
+    },
+    "button-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-xs}"
+    },
+    "botton-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-2xs}"
+    },
+    "card-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-2xl}"
+    },
+    "input-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-xs}"
+    },
+    "card-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-l}"
+    },
+    "card-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-xl}"
+    }
+  },
+  "component": {
+    "card": {
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-gap}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.card-border-radius}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-padding-x}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-padding-y}"
+      },
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.card-bg-color}"
+      }
+    },
+    "button": {
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.button-bg-color}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.botton-padding-y}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.button-border-radius}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.button-text-color}"
+      },
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.button-gap}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.button-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.button-font-size}"
+      }
+    },
+    "card-heading": {
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.heading-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.heading-font-size}"
+      },
+      "color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.text-color-default}"
+      }
+    },
+    "form": {
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.form-gap}"
+      }
+    },
+    "input": {
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.input-font-size}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.input-padding-y}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.input-padding-x}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.input-text-color}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.default-font-family}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.input-border-radius}"
+      },
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.input-bg-color}"
+      }
+    }
+  }
+}

@@ -137,7 +137,7 @@
     },
     "color-brand-primary": {
       "type": "color",
-      "value": "#f91e7aff",
+      "value": "#f9b11eff",
       "blendMode": "normal"
     },
     "color-brand-secondary": {
@@ -1734,7 +1734,7 @@
     "btn-border-radius": {
       "description": "",
       "type": "color",
-      "value": "{border radius - alias.border-radius-xl}"
+      "value": "{border radius - alias.border-radius-s}"
     },
     "input-field-border-radius": {
       "description": "",
