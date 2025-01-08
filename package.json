@@ -132,10 +132,18 @@
   },
   "devDependencies": {},
   "scripts": {
-  "build": "style-dictionary build"
-},
+    "build": "style-dictionary build"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-milde/design-tokens-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m-milde/design-tokens-setup/issues"
+  },
+  "homepage": "https://github.com/m-milde/design-tokens-setup#readme",
   "description": ""
 }

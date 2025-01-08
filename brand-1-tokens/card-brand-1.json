@@ -247,6 +247,10 @@
         "description": "",
         "type": "color",
         "value": "{color-1-mapped.button-text-color}"
+      },
+      "align-self": {
+        "type": "string",
+        "value": "end"
       }
     },
     "card": {
@@ -336,16 +340,6 @@
         "type": "color",
         "value": "{color-1-mapped.input-text-color}"
       }
-    }
-  },
-  "border-radius-2-root": {
-    "border-radius-m": {
-      "type": "dimension",
-      "value": 5
-    },
-    "border-radius-s": {
-      "type": "dimension",
-      "value": 3
     }
   }
 }

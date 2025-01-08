@@ -1,4 +1,140 @@
 {
+  "component": {
+    "button": {
+      "align-self": {
+        "type": "string",
+        "value": "stretch"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.botton-padding-x}"
+      },
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.button-bg-color}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.botton-padding-y}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.button-border-radius}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.button-text-color}"
+      },
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.button-gap}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.button-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.button-font-size}"
+      }
+    },
+    "card": {
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-gap}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.card-border-radius}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-padding-x}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.card-padding-y}"
+      },
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.card-bg-color}"
+      }
+    },
+    "card-heading": {
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.heading-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.heading-font-size}"
+      },
+      "color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.text-color-default}"
+      }
+    },
+    "form": {
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.form-gap}"
+      }
+    },
+    "input": {
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-2-mapped.input-font-size}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.input-padding-y}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-2-mapped.input-padding-x}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.input-text-color}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-2-mapped.default-font-family}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-2-mapped.input-border-radius}"
+      },
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-2-mapped.input-bg-color}"
+      }
+    }
+  },
   "color-2-root": {
     "forth": {
       "type": "color",
@@ -208,138 +344,11 @@
       "description": "",
       "type": "dimension",
       "value": "{spacer-2-root.space-xl}"
-    }
-  },
-  "component": {
-    "card": {
-      "gap": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.card-gap}"
-      },
-      "border-radius": {
-        "description": "",
-        "type": "color",
-        "value": "{border-radius-2-mapped.card-border-radius}"
-      },
-      "padding-x": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.card-padding-x}"
-      },
-      "padding-y": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.card-padding-y}"
-      },
-      "bg-color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.card-bg-color}"
-      }
     },
-    "button": {
-      "bg-color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.button-bg-color}"
-      },
-      "padding-y": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.botton-padding-y}"
-      },
-      "border-radius": {
-        "description": "",
-        "type": "color",
-        "value": "{border-radius-2-mapped.button-border-radius}"
-      },
-      "text-color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.button-text-color}"
-      },
-      "gap": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.button-gap}"
-      },
-      "font-family": {
-        "description": "",
-        "type": "color",
-        "value": "{font-family-2-mapped.button-font-family}"
-      },
-      "font-size": {
-        "description": "",
-        "type": "color",
-        "value": "{font-size-2-mapped.button-font-size}"
-      },
-      "align-self": {
-        "description": "Aligns the button to stretch in its container",
-        "type": "style",
-        "value": "stretch"
-      }
-    },
-    "card-heading": {
-      "font-family": {
-        "description": "",
-        "type": "color",
-        "value": "{font-family-2-mapped.heading-font-family}"
-      },
-      "font-size": {
-        "description": "",
-        "type": "color",
-        "value": "{font-size-2-mapped.heading-font-size}"
-      },
-      "color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.text-color-default}"
-      }
-    },
-    "form": {
-      "gap": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.form-gap}"
-      }
-    },
-    "input": {
-      "font-size": {
-        "description": "",
-        "type": "color",
-        "value": "{font-size-2-mapped.input-font-size}"
-      },
-      "padding-y": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.input-padding-y}"
-      },
-      "padding-x": {
-        "description": "",
-        "type": "color",
-        "value": "{spacer-2-mapped.input-padding-x}"
-      },
-      "text-color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.input-text-color}"
-      },
-      "font-family": {
-        "description": "",
-        "type": "color",
-        "value": "{font-family-2-mapped.default-font-family}"
-      },
-      "border-radius": {
-        "description": "",
-        "type": "color",
-        "value": "{border-radius-2-mapped.input-border-radius}"
-      },
-      "bg-color": {
-        "description": "",
-        "type": "color",
-        "value": "{color-2-mapped.input-bg-color}"
-      }
+    "botton-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-2-root.space-2xs}"
     }
   }
 }
