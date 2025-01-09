@@ -46,7 +46,7 @@
 
 
 {
-  "source": ["SOT/**/*.json"],
+  "source": ["sapphire-design-tokens/**/*.json"],
   "platforms": {
     "web": {
       "transformGroup": "scss",
