@@ -1,0 +1,26 @@
+{
+    "font-weight-regular": {
+      "name": "font-weight-regular",
+      "description": "",
+      "type": "fontWeight",
+      "value": "{font-weight-4}"
+    },
+    "font-weight-medium": {
+      "name": "font-weight-medium",
+      "description": "",
+      "type": "fontWeight",
+      "value": "{font-weight-5}"
+    },
+    "font-weight-semibold": {
+      "name": "font-weight-semibold",
+      "description": "",
+      "type": "fontWeight",
+      "value": "{font-weight-6}"
+    },
+    "font-weight-bold": {
+      "name": "font-weight-bold",
+      "description": "",
+      "type": "fontWeight",
+      "value": "{font-weight-7}"
+    }
+  }

@@ -1,0 +1,32 @@
+{
+  "brand-secondary-300": {
+    "name": "brand-secondary-300",
+    "description": "",
+    "type": "color",
+    "value": "#253852"
+  },
+  "brand-secondary-250": {
+    "name": "brand-secondary-250",
+    "description": "",
+    "type": "color",
+    "value": "#547199"
+  },
+  "brand-secondary-200": {
+    "name": "brand-secondary-200",
+    "description": "",
+    "type": "color",
+    "value": "#a9b8cc"
+  },
+  "brand-secondary-150": {
+    "name": "brand-secondary-150",
+    "description": "",
+    "type": "color",
+    "value": "#dde3eb"
+  },
+  "brand-secondary-100": {
+    "name": "brand-secondary-100",
+    "description": "",
+    "type": "color",
+    "value": "#eef1f5"
+  }
+}

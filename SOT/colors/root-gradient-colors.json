@@ -1,0 +1,26 @@
+{
+    "brand-gradinet-color-1": {
+      "name": "brand-gradinet-color-1",
+      "description": "",
+      "type": "color",
+      "value": "{brand-primary-100}"
+    },
+    "brand-gradinet-color-2": {
+      "name": "brand-gradinet-color-2",
+      "description": "",
+      "type": "color",
+      "value": "#6e04d8"
+    },
+    "brand-gradinet-color-3": {
+      "name": "brand-gradinet-color-3",
+      "description": "",
+      "type": "color",
+      "value": "{neutral-0}"
+    },
+    "brand-gradinet-color-4": {
+      "name": "brand-gradinet-color-4",
+      "description": "",
+      "type": "color",
+      "value": "#f3f5f8"
+    }
+  }
