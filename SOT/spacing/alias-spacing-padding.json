@@ -1,0 +1,68 @@
+{
+    "padding-0": {
+      "name": "padding-0",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-1}"
+    },
+    "padding-6": {
+      "name": "padding-6",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-12}"
+    },
+    "padding-8": {
+      "name": "padding-8",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-2}"
+    },
+    "padding-10": {
+      "name": "padding-10",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-3}"
+    },
+    "padding-12": {
+      "name": "padding-12",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-4}"
+    },
+    "padding-16": {
+      "name": "padding-16",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-5}"
+    },
+    "padding-18": {
+      "name": "padding-18",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-6}"
+    },
+    "padding-20": {
+      "name": "padding-20",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-7}"
+    },
+    "padding-22": {
+      "name": "padding-22",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-8}"
+    },
+    "padding-24": {
+      "name": "padding-24",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-9}"
+    },
+    "padding-30": {
+      "name": "padding-30",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-10}"
+    }
+  }

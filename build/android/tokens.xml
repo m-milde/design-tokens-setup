@@ -4,7 +4,26 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="color_brand_primary_10">#ffe6e1fb</color>
-  <color name="color_brand_primary_50">#ffaa9bf2</color>
-  <color name="color_brand_primary_100">#ff5638e5</color>
+  <color name="accent_brand_default">@color/brand_primary_100</color>
+  <color name="accent_brand_light">@color/brand_primary_50</color>
+  <color name="accent_brand_lighter">@color/brand_primary_10</color>
+  <color name="brand_primary_100">#ff5638e5</color>
+  <color name="brand_primary_50">#ffaa9bf2</color>
+  <color name="brand_primary_10">#ffe6e1fb</color>
+  <string name="font_size_12">@string/font_size_1</string>
+  <string name="font_size_14">@string/font_size_2</string>
+  <string name="font_size_15">@string/font_size_3</string>
+  <string name="font_size_16">@string/font_size_4</string>
+  <string name="font_size_18">@string/font_size_5</string>
+  <string name="font_size_20">@string/font_size_6</string>
+  <string name="font_size_24">@string/font_size_7</string>
+  <string name="font_size_30">@string/font_size_8</string>
+  <dimen name="font_size_1">192.00sp</dimen>
+  <dimen name="font_size_2">224.00sp</dimen>
+  <dimen name="font_size_3">240.00sp</dimen>
+  <dimen name="font_size_4">256.00sp</dimen>
+  <dimen name="font_size_5">288.00sp</dimen>
+  <dimen name="font_size_6">320.00sp</dimen>
+  <dimen name="font_size_7">384.00sp</dimen>
+  <dimen name="font_size_8">480.00sp</dimen>
 </resources>

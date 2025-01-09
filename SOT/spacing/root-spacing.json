@@ -1,0 +1,74 @@
+{
+  "space-1": {
+    "name": "space-1",
+    "description": "",
+    "type": "dimension",
+    "value": 2
+  },
+  "space-2": {
+    "name": "space-2",
+    "description": "",
+    "type": "dimension",
+    "value": 8
+  },
+  "space-3": {
+    "name": "space-3",
+    "description": "",
+    "type": "dimension",
+    "value": 10
+  },
+  "space-4": {
+    "name": "space-4",
+    "description": "",
+    "type": "dimension",
+    "value": 12
+  },
+  "space-5": {
+    "name": "space-5",
+    "description": "",
+    "type": "dimension",
+    "value": 16
+  },
+  "space-6": {
+    "name": "space-6",
+    "description": "",
+    "type": "dimension",
+    "value": 18
+  },
+  "space-7": {
+    "name": "space-7",
+    "description": "",
+    "type": "dimension",
+    "value": 20
+  },
+  "space-8": {
+    "name": "space-8",
+    "description": "",
+    "type": "dimension",
+    "value": 22
+  },
+  "space-9": {
+    "name": "space-9",
+    "description": "",
+    "type": "dimension",
+    "value": 24
+  },
+  "space-10": {
+    "name": "space-10",
+    "description": "",
+    "type": "dimension",
+    "value": 30
+  },
+  "space-11": {
+    "name": "space-11",
+    "description": "",
+    "type": "dimension",
+    "value": 4
+  },
+  "space-12": {
+    "name": "space-12",
+    "description": "",
+    "type": "dimension",
+    "value": 6
+  }
+}

@@ -3,7 +3,26 @@
  */
 
 :root {
-  --color-brand-primary-10: #e6e1fb;
-  --color-brand-primary-50: #aa9bf2;
-  --color-brand-primary-100: #5638e5;
+  --brand-primary-100: #5638e5;
+  --brand-primary-50: #aa9bf2;
+  --brand-primary-10: #e6e1fb;
+  --font-size-1: 12px;
+  --font-size-2: 14px;
+  --font-size-3: 15px;
+  --font-size-4: 16px;
+  --font-size-5: 18px;
+  --font-size-6: 20px;
+  --font-size-7: 24px;
+  --font-size-8: 30px;
+  --accent-brand-default: var(--brand-primary-100);
+  --accent-brand-light: var(--brand-primary-50);
+  --accent-brand-lighter: var(--brand-primary-10);
+  --font-size-12: var(--font-size-1);
+  --font-size-14: var(--font-size-2);
+  --font-size-15: var(--font-size-3);
+  --font-size-16: var(--font-size-4);
+  --font-size-18: var(--font-size-5);
+  --font-size-20: var(--font-size-6);
+  --font-size-24: var(--font-size-7);
+  --font-size-30: var(--font-size-8);
 }

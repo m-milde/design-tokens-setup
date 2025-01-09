@@ -1,0 +1,68 @@
+{
+    "gap-2": {
+      "name": "gap-2",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-1}"
+    },
+    "gap-4": {
+      "name": "gap-4",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-11}"
+    },
+    "gap-8": {
+      "name": "gap-8",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-2}"
+    },
+    "gap-10": {
+      "name": "gap-10",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-3}"
+    },
+    "gap-12": {
+      "name": "gap-12",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-4}"
+    },
+    "gap-16": {
+      "name": "gap-16",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-5}"
+    },
+    "gap-18": {
+      "name": "gap-18",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-6}"
+    },
+    "gap-20": {
+      "name": "gap-20",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-7}"
+    },
+    "gap-22": {
+      "name": "gap-22",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-8}"
+    },
+    "gap-24": {
+      "name": "gap-24",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-9}"
+    },
+    "gap-30": {
+      "name": "gap-30",
+      "description": "",
+      "type": "dimension",
+      "value": "{space-10}"
+    }
+  }
