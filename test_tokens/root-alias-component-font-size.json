@@ -1,0 +1,91 @@
+{
+
+  "root-font-size": {
+    "font-size-1": {
+      "type": "dimension",
+      "value": 12
+    },
+    "font-size-2": {
+      "type": "dimension",
+      "value": 14
+    },
+    "font-size-3": {
+      "type": "dimension",
+      "value": 15
+    },
+    "font-size-4": {
+      "type": "dimension",
+      "value": 16
+    },
+    "font-size-5": {
+      "type": "dimension",
+      "value": 18
+    },
+    "font-size-6": {
+      "type": "dimension",
+      "value": 20
+    },
+    "font-size-7": {
+      "type": "dimension",
+      "value": 24
+    },
+    "font-size-8": {
+      "type": "dimension",
+      "value": 30
+    }
+  },
+
+  "alias-font-size": {
+    "font-size-12": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-1}"
+    },
+    "font-size-14": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-2}"
+    },
+    "font-size-15": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-3}"
+    },
+    "font-size-16": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-4}"
+    },
+    "font-size-18": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-5}"
+    },
+    "font-size-20": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-6}"
+    },
+    "font-size-24": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-7}"
+    },
+    "font-size-30": {
+      "description": "",
+      "type": "dimension",
+      "value": "{root-font-size.font-size-8}"
+    }
+  },
+
+    "card": {
+        
+        "main-text": {
+            "font-size": {
+            "description": "",
+            "type": "dimension",
+            "value": "{alias-font-size.font-size-16}"
+            }
+        }
+    }
+}

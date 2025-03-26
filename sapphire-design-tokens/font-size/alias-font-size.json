@@ -1,0 +1,50 @@
+{
+    "font-size-12": {
+      "name": "font-size-12",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-1}"
+    },
+    "font-size-14": {
+      "name": "font-size-14",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-2}"
+    },
+    "font-size-15": {
+      "name": "font-size-15",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-3}"
+    },
+    "font-size-16": {
+      "name": "font-size-16",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-4}"
+    },
+    "font-size-18": {
+      "name": "font-size-18",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-5}"
+    },
+    "font-size-20": {
+      "name": "font-size-20",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-6}"
+    },
+    "font-size-24": {
+      "name": "font-size-24",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-7}"
+    },
+    "font-size-30": {
+      "name": "font-size-30",
+      "description": "fontSize",
+      "type": "fontSize",
+      "value": "{font-size-8}"
+    }
+  }

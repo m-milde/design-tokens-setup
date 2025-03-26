@@ -1,0 +1,32 @@
+{
+    "border-radius-0": {
+      "name": "border-radius-0",
+      "description": "",
+      "type": "dimension",
+      "value": 0
+    },
+    "border-radius-1": {
+      "name": "border-radius-1",
+      "description": "",
+      "type": "dimension",
+      "value": 4
+    },
+    "border-radius-2": {
+      "name": "border-radius-2",
+      "description": "",
+      "type": "dimension",
+      "value": 8
+    },
+    "border-radius-3": {
+      "name": "border-radius-3",
+      "description": "",
+      "type": "dimension",
+      "value": 18
+    },
+    "border-radius-4": {
+      "name": "border-radius-4",
+      "description": "",
+      "type": "dimension",
+      "value": 100
+    }
+  }

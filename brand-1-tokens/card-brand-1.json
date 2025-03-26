@@ -1,0 +1,356 @@
+{
+  "color-1-root": {
+    "primary": {
+      "type": "color",
+      "value": "#ffa59bff",
+      "blendMode": "normal"
+    },
+    "secondary": {
+      "type": "color",
+      "value": "#ccf0ffff",
+      "blendMode": "normal"
+    },
+    "third": {
+      "type": "color",
+      "value": "#ffffffff",
+      "blendMode": "normal"
+    },
+    "forth": {
+      "type": "color",
+      "value": "#413250ff",
+      "blendMode": "normal"
+    }
+  },
+  "color-1-mapped": {
+    "card-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.secondary}"
+    },
+    "button-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.primary}"
+    },
+    "input-bg-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.third}"
+    },
+    "text-color-default": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.forth}"
+    },
+    "button-text-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.forth}"
+    },
+    "input-text-color": {
+      "description": "",
+      "type": "color",
+      "value": "{color-1-root.forth}"
+    }
+  },
+  "font-family-1-root": {
+    "font-family-primary": {
+      "type": "string",
+      "value": "Italiana"
+    },
+    "font-family-secondary": {
+      "type": "string",
+      "value": "Instrument sans"
+    }
+  },
+  "font-family-1-mapped": {
+    "default-font-family": {
+      "description": "",
+      "type": "string",
+      "value": "{font-family-1-root.font-family-secondary}"
+    },
+    "heading-font-family": {
+      "description": "",
+      "type": "string",
+      "value": "{font-family-1-root.font-family-primary}"
+    }
+  },
+  "font-size-1-root": {
+    "font-seze-xl": {
+      "type": "dimension",
+      "value": 54
+    },
+    "font-seze-m": {
+      "type": "dimension",
+      "value": 20
+    }
+  },
+  "font-size-1-mapped": {
+    "heading-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-1-root.font-seze-xl}"
+    },
+    "button-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-1-root.font-seze-m}"
+    },
+    "input-font-size": {
+      "description": "",
+      "type": "dimension",
+      "value": "{font-size-1-root.font-seze-m}"
+    }
+  },
+  "border-radius-1-root": {
+    "border-radius-default": {
+      "type": "dimension",
+      "value": 16
+    },
+    "border-radius-full": {
+      "type": "dimension",
+      "value": 100
+    }
+  },
+  "border-radius-1-mapped": {
+    "card-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-1-root.border-radius-default}"
+    },
+    "button-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-1-root.border-radius-full}"
+    },
+    "input-border-radius": {
+      "description": "",
+      "type": "dimension",
+      "value": "{border-radius-1-root.border-radius-full}"
+    }
+  },
+  "spacer-1-root": {
+    "space-2xl": {
+      "type": "dimension",
+      "value": 78
+    },
+    "space-xl": {
+      "type": "dimension",
+      "value": 42
+    },
+    "space-l": {
+      "type": "dimension",
+      "value": 34
+    },
+    "space-m": {
+      "type": "dimension",
+      "value": 32
+    },
+    "space-s": {
+      "type": "dimension",
+      "value": 26
+    },
+    "space-xs": {
+      "type": "dimension",
+      "value": 24
+    },
+    "space-2xs": {
+      "type": "dimension",
+      "value": 22
+    }
+  },
+  "spacer-1-mapped": {
+    "card-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-2xl}"
+    },
+    "card-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-xl}"
+    },
+    "botton-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-l}"
+    },
+    "card-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-m}"
+    },
+    "input-padding-x": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-s}"
+    },
+    "button-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-xs}"
+    },
+    "form-gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-xs}"
+    },
+    "button-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-2xs}"
+    },
+    "input-padding-y": {
+      "description": "",
+      "type": "dimension",
+      "value": "{spacer-1-root.space-2xs}"
+    }
+  },
+  "component": {
+    "button": {
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.button-bg-color}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.botton-padding-x}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.button-padding-y}"
+      },
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.button-gap}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-1-mapped.button-border-radius}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-1-mapped.default-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-1-mapped.button-font-size}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.button-text-color}"
+      },
+      "align-self": {
+        "type": "string",
+        "value": "end"
+      },
+      "icon-arrow-right": {
+        "description": "",
+        "type": "string",
+        "value": "{icons.icon-arrow-right}"
+      }
+    },
+    "card": {
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.card-bg-color}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.card-padding-x}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.card-padding-y}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-1-mapped.card-border-radius}"
+      },
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.card-gap}"
+      }
+    },
+    "card-heading": {
+      "color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.text-color-default}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-1-mapped.heading-font-size}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-1-mapped.heading-font-family}"
+      }
+    },
+    "form": {
+      "gap": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.form-gap}"
+      }
+    },
+    "input": {
+      "bg-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.input-bg-color}"
+      },
+      "padding-x": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.input-padding-x}"
+      },
+      "padding-y": {
+        "description": "",
+        "type": "color",
+        "value": "{spacer-1-mapped.input-padding-y}"
+      },
+      "border-radius": {
+        "description": "",
+        "type": "color",
+        "value": "{border-radius-1-mapped.input-border-radius}"
+      },
+      "font-family": {
+        "description": "",
+        "type": "color",
+        "value": "{font-family-1-mapped.default-font-family}"
+      },
+      "font-size": {
+        "description": "",
+        "type": "color",
+        "value": "{font-size-1-mapped.input-font-size}"
+      },
+      "text-color": {
+        "description": "",
+        "type": "color",
+        "value": "{color-1-mapped.input-text-color}"
+      }
+    }
+  },
+  "icons": {
+    "icon-arrow-right": {
+      "type": "string",
+      "value": "\"\""
+    }
+  }
+}

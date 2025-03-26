@@ -1,0 +1,111 @@
+// {
+//     "source": ["brand-2-tokens/**/*.json"],
+//     "platforms": {
+//       "web": {
+//         "transformGroup": "scss",
+//         "buildPath": "build/web/",
+//         "transforms": ["size/px"],
+//         "files": [
+//           {
+//             "destination": "variables.css",
+//             "format": "css/variables",
+//             "options": {
+//               "outputReferences": true
+//             }
+//           }
+//         ]
+//       },
+//       "ios": {
+//         "transformGroup": "ios",
+//         "buildPath": "build/ios/",
+//         "files": [
+//           {
+//             "destination": "tokens.h",
+//             "format": "ios/macros",
+//             "options": {
+//               "outputReferences": true
+//             }
+//           }
+//         ]
+//       },
+//       "android": {
+//         "transformGroup": "android",
+//         "buildPath": "build/android/",
+//         "files": [
+//           {
+//             "destination": "tokens.xml",
+//             "format": "android/resources",
+//             "options": {
+//               "outputReferences": true
+//             }
+//           }
+//         ]
+//       }
+//     }
+//   }
+
+
+{
+  "source": ["sapphire-design-tokens/all/**/*.json"],
+  "platforms": {
+    "web": {
+      "transformGroup": "css",
+      "buildPath": "sapphire-design-tokens/css/",
+      "transforms": ["size/px"],
+      "files": [
+        {
+          "destination": "variables.css",
+          "format": "css/variables",
+          "options": {
+            "outputReferences": true
+          }
+        }
+      ]
+    },
+      "ios-swift": {
+          "transforms": ["name/camel", "color/ColorSwiftUI"],
+          "buildPath": "Sources/Tokens/",
+          "files": [
+              {
+                  "destination": "SapphireColors.swift",
+                  "format": "ios-swift/any.swift",
+                  "options": {
+                      "className": "SapphireColors",
+                      "import": "SwiftUI",
+                      "objectType": "struct",
+                      "outputReferences": true
+                  },
+                  "filter": {
+                      "type": "color"
+                  }
+              },
+              {
+                  "destination": "SapphireFontSizes.swift",
+                  "format": "ios-swift/any.swift",
+                  "options": {
+                      "className": "SapphireFontSizes",
+                      "import": "Foundation",
+                      "objectType": "struct",
+                      "outputReferences": true
+                  },
+                  "filter": {
+                      "type": "float"
+                  }
+              }
+          ]
+      },
+      "android": {
+        "transformGroup": "android",
+        "buildPath": "build/android/",
+        "files": [
+          {
+            "destination": "tokens.xml",
+            "format": "android/resources",
+            "options": {
+              "outputReferences": true
+            }
+          }
+        ]
+      }
+  }
+}

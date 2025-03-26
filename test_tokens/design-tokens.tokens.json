@@ -1,0 +1,22 @@
+{
+  "space-root": {
+    "spacer": {
+      "type": "dimension",
+      "value": 15
+    }
+  },
+  "space-semantic": {
+    "gap": {
+      "description": "",
+      "type": "dimension",
+      "value": "{space-root.spacer}"
+    }
+  },
+  "space-component": {
+    "button-gap": {
+      "description": "",
+      "type": "color",
+      "value": "{space-semantic.gap}"
+    }
+  }
+}

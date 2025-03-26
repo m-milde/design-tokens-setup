@@ -1,0 +1,224 @@
+{
+  "color-brand-primary": {
+    "name": "color-brand-primary",
+    "description": "",
+    "type": "color",
+    "value": "#f9b11e"
+  },
+  "color-brand-secondary": {
+    "name": "color-brand-secondary",
+    "description": "",
+    "type": "color",
+    "value": "#f39100"
+  },
+  "color-brand-third": {
+    "name": "color-brand-third",
+    "description": "",
+    "type": "color",
+    "value": "#fdcd6e"
+  },
+  "color-brand-forth": {
+    "name": "color-brand-forth",
+    "description": "",
+    "type": "color",
+    "value": "#ffefae"
+  },
+  "color-positive-primary": {
+    "name": "color-positive-primary",
+    "description": "",
+    "type": "color",
+    "value": "#099735"
+  },
+  "color-positive-secondary": {
+    "name": "color-positive-secondary",
+    "description": "",
+    "type": "color",
+    "value": "#068138"
+  },
+  "color-positive-third": {
+    "name": "color-positive-third",
+    "description": "",
+    "type": "color",
+    "value": "#38c055"
+  },
+  "color-positive-forth": {
+    "name": "color-positive-forth",
+    "description": "",
+    "type": "color",
+    "value": "#cef9ca"
+  },
+  "color-brand-light-100": {
+    "name": "color-brand-light-100",
+    "description": "",
+    "type": "color",
+    "value": "#ffffff"
+  },
+  "color-brand-dark-100": {
+    "name": "color-brand-dark-100",
+    "description": "",
+    "type": "color",
+    "value": "#181716"
+  },
+  "color-brand-neutral-60": {
+    "name": "color-brand-neutral-60",
+    "description": "",
+    "type": "color",
+    "value": "#868786"
+  },
+  "color-brand-neutral-40": {
+    "name": "color-brand-neutral-40",
+    "description": "",
+    "type": "color",
+    "value": "#b1b2b3"
+  },
+  "color-brand-neutral-10": {
+    "name": "color-brand-neutral-10",
+    "description": "",
+    "type": "color",
+    "value": "#ececec"
+  },
+  "color-brand-neutral-5": {
+    "name": "color-brand-neutral-5",
+    "description": "",
+    "type": "color",
+    "value": "#f6f6f6"
+  },
+  "color-negative-primary": {
+    "name": "color-negative-primary",
+    "description": "",
+    "type": "color",
+    "value": "#e84362"
+  },
+  "color-negative-secondary": {
+    "name": "color-negative-secondary",
+    "description": "",
+    "type": "color",
+    "value": "#c7305b"
+  },
+  "color-negative-third": {
+    "name": "color-negative-third",
+    "description": "",
+    "type": "color",
+    "value": "#f1707c"
+  },
+  "color-negative-forth": {
+    "name": "color-negative-forth",
+    "description": "",
+    "type": "color",
+    "value": "#fde0d9"
+  },
+  "color-info-primary": {
+    "name": "color-info-primary",
+    "description": "",
+    "type": "color",
+    "value": "#25aebf"
+  },
+  "color-info-secondary": {
+    "name": "color-info-secondary",
+    "description": "",
+    "type": "color",
+    "value": "#1b8aa4"
+  },
+  "color-info-third": {
+    "name": "color-info-third",
+    "description": "",
+    "type": "color",
+    "value": "#55d4d8"
+  },
+  "color-info-forth": {
+    "name": "color-info-forth",
+    "description": "",
+    "type": "color",
+    "value": "#d3fbf3"
+  },
+  "color-warning-primary": {
+    "name": "color-warning-primary",
+    "description": "",
+    "type": "color",
+    "value": "#ffcd1a"
+  },
+  "color-warning-secondary": {
+    "name": "color-warning-secondary",
+    "description": "",
+    "type": "color",
+    "value": "#e09f1b"
+  },
+  "color-warning-third": {
+    "name": "color-warning-third",
+    "description": "",
+    "type": "color",
+    "value": "#ffdd53"
+  },
+  "color-warning-forth": {
+    "name": "color-warning-forth",
+    "description": "",
+    "type": "color",
+    "value": "#fff9d1"
+  },
+  "color-neutral-10": {
+    "name": "color-neutral-10",
+    "description": "",
+    "type": "color",
+    "value": "#fdfdfd"
+  },
+  "color-neutral-20": {
+    "name": "color-neutral-20",
+    "description": "",
+    "type": "color",
+    "value": "#fafafa"
+  },
+  "color-neutral-30": {
+    "name": "color-neutral-30",
+    "description": "",
+    "type": "color",
+    "value": "#f1f1f1"
+  },
+  "color-neutral-40": {
+    "name": "color-neutral-40",
+    "description": "",
+    "type": "color",
+    "value": "#d2d2d6"
+  },
+  "color-neutral-50": {
+    "name": "color-neutral-50",
+    "description": "",
+    "type": "color",
+    "value": "#b4b3bc"
+  },
+  "color-neutral-60": {
+    "name": "color-neutral-60",
+    "description": "",
+    "type": "color",
+    "value": "#a7a6b1"
+  },
+  "color-neutral-70": {
+    "name": "color-neutral-70",
+    "description": "",
+    "type": "color",
+    "value": "#6f6f79"
+  },
+  "color-neutral-80": {
+    "name": "color-neutral-80",
+    "description": "",
+    "type": "color",
+    "value": "#50505e"
+  },
+  "color-neutral-90": {
+    "name": "color-neutral-90",
+    "description": "",
+    "type": "color",
+    "value": "#302f3c"
+  },
+  "color-neutral-100": {
+    "name": "color-neutral-100",
+    "description": "",
+    "type": "color",
+    "value": "#000000"
+  },
+  "color-neutral-0": {
+    "name": "color-neutral-0",
+    "description": "",
+    "type": "color",
+    "value": "#ffffff"
+  }
+}

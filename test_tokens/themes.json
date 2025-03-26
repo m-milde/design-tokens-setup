@@ -1,0 +1,47 @@
+{
+  "token": {
+    "primary-color-day": {
+      "value": "rgba(255, 165, 155, 1)",
+      "type": "color"
+    },
+    "secondary-color-day": {
+      "value": "rgba(204, 240, 255, 1)",
+      "type": "color"
+    },
+    "third-color-day": {
+      "value": "rgba(255, 255, 255, 1)",
+      "type": "color"
+    },
+    "forth-color-day": {
+      "value": "rgba(65, 50, 80, 1)",
+      "type": "color"
+    },
+    "primary-color-night": {
+      "value": "rgba(204, 240, 255, 1)",
+      "type": "color"
+    },
+    "secondary-color-night": {
+      "value": "rgba(65, 50, 80, 1)",
+      "type": "color"
+    },
+    "third-color-night": {
+      "value": "rgba(91, 86, 112, 1)",
+      "type": "color"
+    },
+    "forth-color-night": {
+      "value": "rgba(217, 213, 233, 1)",
+      "type": "color"
+    },
+    "shadow-style": {
+      "value": {
+        "type": "DROP_SHADOW",
+        "color": "rgba(255, 0, 0, 0.47)",
+        "offset-x": "0px",
+        "offset-y": "5px",
+        "radius": "10px",
+        "spread": "2px"
+      },
+      "type": "effect"
+    }
+  }
+}

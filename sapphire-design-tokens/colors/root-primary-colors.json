@@ -1,0 +1,20 @@
+{
+  "brand-primary-100": {
+    "name": "brand-primary-100",
+    "description": "",
+    "type": "color",
+    "value": "#5638e5"
+  },
+  "brand-primary-50": {
+    "name": "brand-primary-50",
+    "description": "",
+    "type": "color",
+    "value": "#aa9bf2"
+  },
+  "brand-primary-10": {
+    "name": "brand-primary-10",
+    "description": "",
+    "type": "color",
+    "value": "#e6e1fb"
+  }
+}

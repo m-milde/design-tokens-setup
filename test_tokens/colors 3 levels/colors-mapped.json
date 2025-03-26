@@ -1,0 +1,506 @@
+{
+    "btn-primary-bg-color": {
+      "name": "btn-primary-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "surface-color-accent": {
+      "name": "surface-color-accent",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "surface-color-accent-dark": {
+      "name": "surface-color-accent-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-dark}"
+    },
+    "text-color-accent": {
+      "name": "text-color-accent",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "text-color-accent-dark": {
+      "name": "text-color-accent-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-dark}"
+    },
+    "text-link-underline": {
+      "name": "text-link-underline",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "text-link-pressed": {
+      "name": "text-link-pressed",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "border-color-accent": {
+      "name": "border-color-accent",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "icon-color-accent": {
+      "name": "icon-color-accent",
+      "description": "",
+      "type": "color",
+      "value": "{color-accent-primary}"
+    },
+    "page-bg-color": {
+      "name": "page-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-brand-neutral-5}"
+    },
+    "accordion-select-bg-color": {
+      "name": "accordion-select-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "select-menu-bg-color-light": {
+      "name": "select-menu-bg-color-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "card-bg-color-light": {
+      "name": "card-bg-color-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "msg-bg-color": {
+      "name": "msg-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "btn-light-bg-color": {
+      "name": "btn-light-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "checkbox-primary-bg-color": {
+      "name": "checkbox-primary-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "text-color-light": {
+      "name": "text-color-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "radio-btn-bg-color-light": {
+      "name": "radio-btn-bg-color-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "input-bg-color-light": {
+      "name": "input-bg-color-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "surface-color-white": {
+      "name": "surface-color-white",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "icon-color-white": {
+      "name": "icon-color-white",
+      "description": "",
+      "type": "color",
+      "value": "{color-white}"
+    },
+    "icon-color-darker": {
+      "name": "icon-color-darker",
+      "description": "",
+      "type": "color",
+      "value": "{color-dark-100}"
+    },
+    "surface-color-dark": {
+      "name": "surface-color-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "text-color-dark": {
+      "name": "text-color-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-dark-100}"
+    },
+    "input-field-neutral-border-active": {
+      "name": "input-field-neutral-border-active",
+      "description": "",
+      "type": "color",
+      "value": "{color-dark-100}"
+    },
+    "border-color-default-active": {
+      "name": "border-color-default-active",
+      "description": "",
+      "type": "color",
+      "value": "{color-dark-100}"
+    },
+    "btn-secondary-bg-color": {
+      "name": "btn-secondary-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "bottombar-bg-color": {
+      "name": "bottombar-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "checkbox-hover-border-color": {
+      "name": "checkbox-hover-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "checkbox-checked-bg-color 2": {
+      "name": "checkbox-checked-bg-color 2",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "btn-outline-border-color-hover": {
+      "name": "btn-outline-border-color-hover",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "icon-color-dark": {
+      "name": "icon-color-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "text-color-default": {
+      "name": "text-color-default",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "input-field-border-color-hover": {
+      "name": "input-field-border-color-hover",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "border-color-neutral-hover": {
+      "name": "border-color-neutral-hover",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "input-check-bg-checked": {
+      "name": "input-check-bg-checked",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-9}"
+    },
+    "btn-secondary-pressed-bg-color": {
+      "name": "btn-secondary-pressed-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-8}"
+    },
+    "btn-outline-border-color": {
+      "name": "btn-outline-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-8}"
+    },
+    "input-field-inactive-text": {
+      "name": "input-field-inactive-text",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "border-color-neutral": {
+      "name": "border-color-neutral",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-7}"
+    },
+    "input-field-border-color": {
+      "name": "input-field-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-7}"
+    },
+    "checkbox-primary-border-color": {
+      "name": "checkbox-primary-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-7}"
+    },
+    "input-field-inactive-border": {
+      "name": "input-field-inactive-border",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "btn-outline-border-color-pressed": {
+      "name": "btn-outline-border-color-pressed",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "text-color-neutral": {
+      "name": "text-color-neutral",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "border-color-neutral-dark": {
+      "name": "border-color-neutral-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "surface-color-neutral-dark": {
+      "name": "surface-color-neutral-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-6}"
+    },
+    "surface-color-neutral": {
+      "name": "surface-color-neutral",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-5}"
+    },
+    "icon-color-neutral": {
+      "name": "icon-color-neutral",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-5}"
+    },
+    "surface-color-neutral-light": {
+      "name": "surface-color-neutral-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-3}"
+    },
+    "surface-color-light-grey": {
+      "name": "surface-color-light-grey",
+      "description": "",
+      "type": "color",
+      "value": "{color-brand-neutral-10}"
+    },
+    "surface-color-lighter-grey": {
+      "name": "surface-color-lighter-grey",
+      "description": "",
+      "type": "color",
+      "value": "{color-brand-neutral-5}"
+    },
+    "btn-neutral-bg-color": {
+      "name": "btn-neutral-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-4}"
+    },
+    "card-border-color": {
+      "name": "card-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-4}"
+    },
+    "border-color-neutral-light": {
+      "name": "border-color-neutral-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-4}"
+    },
+    "btn-outline-bg-color-pressed": {
+      "name": "btn-outline-bg-color-pressed",
+      "description": "",
+      "type": "color",
+      "value": "{color-dark-100}"
+    },
+    "btn-color-transparent-pressed": {
+      "name": "btn-color-transparent-pressed",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-3}"
+    },
+    "input-field-inactive-bg": {
+      "name": "input-field-inactive-bg",
+      "description": "",
+      "type": "color",
+      "value": "{color-grey-3}"
+    },
+    "text-color-success": {
+      "name": "text-color-success",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-dark}"
+    },
+    "icon-color-success": {
+      "name": "icon-color-success",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-primary}"
+    },
+    "border-color-success": {
+      "name": "border-color-success",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-light}"
+    },
+    "surface-color-success": {
+      "name": "surface-color-success",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-lighter}"
+    },
+    "msg-success-bg-color": {
+      "name": "msg-success-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-lighter}"
+    },
+    "text-color-success-light": {
+      "name": "text-color-success-light",
+      "description": "",
+      "type": "color",
+      "value": "{color-success-lighter}"
+    },
+    "text-color-error": {
+      "name": "text-color-error",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-dark}"
+    },
+    "surface-bg-error-dark": {
+      "name": "surface-bg-error-dark",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-dark}"
+    },
+    "input-field-error-text-color": {
+      "name": "input-field-error-text-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-dark}"
+    },
+    "icon-color-error": {
+      "name": "icon-color-error",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-primary}"
+    },
+    "border-color-error": {
+      "name": "border-color-error",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-light}"
+    },
+    "input-field-error-border-color": {
+      "name": "input-field-error-border-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-light}"
+    },
+    "surface-color-error": {
+      "name": "surface-color-error",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-lighter}"
+    },
+    "msg-error-bg-color": {
+      "name": "msg-error-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-lighter}"
+    },
+    "input-field-error-bg-color": {
+      "name": "input-field-error-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-lighter}"
+    },
+    "input-field-error-box-shadow": {
+      "name": "input-field-error-box-shadow",
+      "description": "",
+      "type": "color",
+      "value": "{color-error-lighter}"
+    },
+    "text-color-info": {
+      "name": "text-color-info",
+      "description": "",
+      "type": "color",
+      "value": "{color-info-dark}"
+    },
+    "icon-color-info": {
+      "name": "icon-color-info",
+      "description": "",
+      "type": "color",
+      "value": "{color-info-primary}"
+    },
+    "border-color-info": {
+      "name": "border-color-info",
+      "description": "",
+      "type": "color",
+      "value": "{color-info-light}"
+    },
+    "surface-color-info": {
+      "name": "surface-color-info",
+      "description": "",
+      "type": "color",
+      "value": "{color-info-lighter}"
+    },
+    "msg-info-bg-color": {
+      "name": "msg-info-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-info-lighter}"
+    },
+    "text-color-warning": {
+      "name": "text-color-warning",
+      "description": "",
+      "type": "color",
+      "value": "{color-warning-dark}"
+    },
+    "icon-color-warning": {
+      "name": "icon-color-warning",
+      "description": "",
+      "type": "color",
+      "value": "{color-warning-primary}"
+    },
+    "border-color-warning": {
+      "name": "border-color-warning",
+      "description": "",
+      "type": "color",
+      "value": "{color-warning-light}"
+    },
+    "surface-color-warning": {
+      "name": "surface-color-warning",
+      "description": "",
+      "type": "color",
+      "value": "{color-warning-lighter}"
+    },
+    "msg-default-bg-color": {
+      "name": "msg-default-bg-color",
+      "description": "",
+      "type": "color",
+      "value": "{color-warning-lighter}"
+    }
+  }

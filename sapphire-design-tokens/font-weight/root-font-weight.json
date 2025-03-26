@@ -1,0 +1,56 @@
+{
+    "font-weight-1": {
+      "name": "font-weight-1",
+      "description": "",
+      "type": "fontWeight",
+      "value": 100
+    },
+    "font-weight-2": {
+      "name": "font-weight-2",
+      "description": "",
+      "type": "fontWeight",
+      "value": 200
+    },
+    "font-weight-3": {
+      "name": "font-weight-3",
+      "description": "",
+      "type": "fontWeight",
+      "value": 300
+    },
+    "font-weight-4": {
+      "name": "font-weight-4",
+      "description": "",
+      "type": "fontWeight",
+      "value": 400
+    },
+    "font-weight-5": {
+      "name": "font-weight-5",
+      "description": "",
+      "type": "fontWeight",
+      "value": 500
+    },
+    "font-weight-6": {
+      "name": "font-weight-6",
+      "description": "",
+      "type": "fontWeight",
+      "value": 600
+    },
+    "font-weight-7": {
+      "name": "font-weight-7",
+      "description": "",
+      "type": "fontWeight",
+      "value": 700
+    },
+    "font-weight-8": {
+      "name": "font-weight-8",
+      "description": "",
+      "type": "fontWeight",
+      "value": 800
+    },
+    "font-weight-9": {
+      "name": "font-weight-9",
+      "description": "",
+      "type": "fontWeight",
+      "value": 900
+    }
+  }

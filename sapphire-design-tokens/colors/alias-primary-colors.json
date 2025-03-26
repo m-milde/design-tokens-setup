@@ -1,0 +1,20 @@
+{
+    "accent-brand-default": {
+      "name": "accent-brand-default",
+      "description": "",
+      "type": "color",
+      "value": "{brand-primary-100}"
+    },
+    "accent-brand-light": {
+      "name": "accent-brand-light",
+      "description": "",
+      "type": "color",
+      "value": "{brand-primary-50}"
+    },
+    "accent-brand-lighter": {
+      "name": "accent-brand-lighter",
+      "description": "",
+      "type": "color",
+      "value": "{brand-primary-10}"
+    }
+  }

@@ -1,0 +1,38 @@
+{
+    "neutral-500": {
+      "name": "neutral-500",
+      "description": "",
+      "type": "color",
+      "value": "#000000"
+    },
+    "neutral-400": {
+      "name": "neutral-400",
+      "description": "",
+      "type": "color",
+      "value": "#424242"
+    },
+    "neutral-300": {
+      "name": "neutral-300",
+      "description": "",
+      "type": "color",
+      "value": "#8d8d8d"
+    },
+    "neutral-200": {
+      "name": "neutral-200",
+      "description": "",
+      "type": "color",
+      "value": "#bfbfbf"
+    },
+    "neutral-100": {
+      "name": "neutral-100",
+      "description": "",
+      "type": "color",
+      "value": "#e7e7e7"
+    },
+    "neutral-0": {
+      "name": "neutral-0",
+      "description": "",
+      "type": "color",
+      "value": "#ffffff"
+    }
+  }
