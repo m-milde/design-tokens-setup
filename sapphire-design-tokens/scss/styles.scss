@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: var(--root-font-family-brand-font-family-2), sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.gradient-btn{
+    --_btn-shadow-offset-x: var(--alias-shadows-offset-shadow-offsetx-0);
+    --_btn-shadow-offset-y: var(--alias-shadows-offset-shadow-offsety-4);
+    --_btn-shadow-blur-radius: var(--alias-blur-blursize-16);
+    --_btn-shadow-spread-radius: var(--switch-os-styles-shadows-size-small-spread);
+    --_btn-shadow-color: var(--alias-opacity-secondary-scondary-opacity-20);
+
+    --btn-shadow: var(--_btn-shadow-offset-x) var(--_btn-shadow-offset-y) var(--_btn-shadow-blur-radius) var(--_btn-shadow-spread-radius) var(--_btn-shadow-color);
+    
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: var(--switch-os-components-button-gap);
+    border: none;
+    font-size: var(--switch-os-components-button-font-size);
+    font-weight: var(--switch-os-components-button-font-weight);
+    font-family: var(--switch-os-components-button-font-family);
+    padding: var(--switch-os-components-button-padding-y) var(--switch-os-components-button-padding-x);
+    border-radius: var(--switch-os-components-button-radius);
+    color: var(--switch-os-components-button-primary-normal-text-color);
+    background: linear-gradient(0deg, var(--switch-os-components-button-primary-normal-bg-gradient-color2) 0%, var(--switch-os-components-button-primary-normal-bg-gradient-color1) 100%);
+    box-shadow: var(--btn-shadow);
+    }

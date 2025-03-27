@@ -2,7 +2,7 @@
   "root-primary-colors": {
     "brand-primary-100": {
       "type": "color",
-      "value": "#ff0033ff",
+      "value": "#5638e5ff",
       "blendMode": "normal"
     },
     "brand-primary-50": {
@@ -793,7 +793,7 @@
         "padding-x": {
           "description": "",
           "type": "color",
-          "value": "{alias-spacing-padding.padding-20}"
+          "value": "{alias-spacing-padding.padding-16}"
         },
         "height": {
           "description": "",
@@ -893,7 +893,7 @@
         "padding-y": {
           "description": "",
           "type": "color",
-          "value": "{alias-spacing-padding.padding-16}"
+          "value": "{alias-spacing-padding.padding-12}"
         }
       },
       "small button": {

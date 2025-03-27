@@ -9,7 +9,7 @@
 import SwiftUI
 
 public struct SapphireColors {
-    public static let rootPrimaryColorsBrandPrimary100 = Color(red: 1.000, green: 0.000, blue: 0.200, opacity: 1)
+    public static let rootPrimaryColorsBrandPrimary100 = Color(red: 0.337, green: 0.220, blue: 0.898, opacity: 1)
     public static let rootPrimaryColorsBrandPrimary50 = Color(red: 0.667, green: 0.608, blue: 0.949, opacity: 1)
     public static let rootPrimaryColorsBrandPrimary10 = Color(red: 0.902, green: 0.882, blue: 0.984, opacity: 1)
     public static let switchOsLayoutStrokeColor = Color(red: 1.000, green: 1.000, blue: 1.000, opacity: 0)
@@ -359,7 +359,7 @@ public struct SapphireColors {
     public static let switchOsComponentsButtonPrimaryNormalBgGradientColor1 = rootGradientColorsBrandGradinetColor1
     public static let switchOsComponentsButtonPrimaryPressedBgColor = aliasPrimaryColorsAccentBrandDefault
     public static let switchOsComponentsButtonRadius = aliasBorderRadiusBorderRadiusFull
-    public static let switchOsComponentsButtonPaddingX = aliasSpacingPaddingPadding20
+    public static let switchOsComponentsButtonPaddingX = aliasSpacingPaddingPadding16
     public static let switchOsComponentsButtonGap = aliasSpacingGapGap10
     public static let switchOsComponentsButtonFontWeight = aliasFontWeightFontWeightRegular
     public static let switchOsComponentsButtonFontSize = aliasFontSizeFontSize15
@@ -368,7 +368,7 @@ public struct SapphireColors {
     public static let switchOsComponentsButtonSecondaryPressedStrokeColor = aliasPrimaryColorsAccentBrandDefault
     public static let switchOsComponentsButtonSecondaryPressedIconColor = aliasPrimaryColorsAccentBrandDefault
     public static let switchOsComponentsButtonSecondaryPressedTextColor = aliasPrimaryColorsAccentBrandDefault
-    public static let switchOsComponentsButtonPaddingY = aliasSpacingPaddingPadding16
+    public static let switchOsComponentsButtonPaddingY = aliasSpacingPaddingPadding12
     public static let switchOsComponentsSmallButtonRadius = aliasBorderRadiusBorderRadiusFull
     public static let switchOsComponentsSmallButtonPaddingH = aliasSpacingPaddingPadding12
     public static let switchOsComponentsSmallButtonGap = aliasSpacingGapGap4

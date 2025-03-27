@@ -4,7 +4,7 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="root_primary_colors_brand_primary_100">#ffff0033</color>
+  <color name="root_primary_colors_brand_primary_100">#ff5638e5</color>
   <color name="root_primary_colors_brand_primary_50">#ffaa9bf2</color>
   <color name="root_primary_colors_brand_primary_10">#ffe6e1fb</color>
   <color name="switch_os_global_frame_width">@color/alias_screen_size_size_full_android</color>
@@ -147,7 +147,7 @@
   <color name="switch_os_components_button_primary_destructive_icon_color">@color/root_neutral_colors_neutral_0</color>
   <color name="switch_os_components_button_primary_destructive_bg_color">@color/root_state_colors_negative_100</color>
   <color name="switch_os_components_button_radius">@color/alias_border_radius_border_radius_full</color>
-  <color name="switch_os_components_button_padding_x">@color/alias_spacing_padding_padding_20</color>
+  <color name="switch_os_components_button_padding_x">@color/alias_spacing_padding_padding_16</color>
   <dimen name="switch_os_components_button_height">@dimen/root_size_size_50</dimen>
   <color name="switch_os_components_button_gap">@color/alias_spacing_gap_gap_10</color>
   <color name="switch_os_components_button_font_weight">@color/alias_font_weight_font_weight_regular</color>
@@ -165,7 +165,7 @@
   <color name="switch_os_components_button_secondary_destructive_stroke_color">@color/root_state_colors_negative_100</color>
   <color name="switch_os_components_button_secondary_destructive_icon_color">@color/root_state_colors_negative_100</color>
   <color name="switch_os_components_button_secondary_destructive_text_color">@color/root_state_colors_negative_100</color>
-  <color name="switch_os_components_button_padding_y">@color/alias_spacing_padding_padding_16</color>
+  <color name="switch_os_components_button_padding_y">@color/alias_spacing_padding_padding_12</color>
   <color name="switch_os_components_small_button_radius">@color/alias_border_radius_border_radius_full</color>
   <color name="switch_os_components_small_button_padding_h">@color/alias_spacing_padding_padding_12</color>
   <dimen name="switch_os_components_small_button_height">@dimen/root_size_size_36</dimen>
