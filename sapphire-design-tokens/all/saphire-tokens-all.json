@@ -720,12 +720,12 @@
             "bg-gradient-color1": {
               "description": "",
               "type": "color",
-              "value": "{root-gradient-colors.brand-gradinet-color-1}"
+              "value": "{root-gradient-colors.brand-gradinet-color-2}"
             },
             "bg-gradient-color2": {
               "description": "",
               "type": "color",
-              "value": "{root-gradient-colors.brand-gradinet-color-2}"
+              "value": "{root-gradient-colors.brand-gradinet-color-1}"
             },
             "icon-color": {
               "description": "",
@@ -747,7 +747,7 @@
             "bg-color": {
               "description": "",
               "type": "color",
-              "value": "{alias-primary-colors.accent-brand-default}"
+              "value": "{alias-primary-colors.accent-brand-light}"
             }
           },
           "cancel": {
@@ -788,12 +788,12 @@
         "radius": {
           "description": "",
           "type": "color",
-          "value": "{alias-border-radius.border-radius-full}"
+          "value": "{alias-border-radius.border-radius-8}"
         },
         "padding-x": {
           "description": "",
           "type": "color",
-          "value": "{alias-spacing-padding.padding-16}"
+          "value": "{alias-spacing-padding.padding-20}"
         },
         "height": {
           "description": "",
@@ -813,7 +813,7 @@
         "font-size": {
           "description": "",
           "type": "color",
-          "value": "{alias-font-size.font-size-15}"
+          "value": "{alias-font-size.font-size-20}"
         },
         "font-family": {
           "description": "",
@@ -893,7 +893,7 @@
         "padding-y": {
           "description": "",
           "type": "color",
-          "value": "{alias-spacing-padding.padding-12}"
+          "value": "{alias-spacing-padding.padding-16}"
         }
       },
       "small button": {

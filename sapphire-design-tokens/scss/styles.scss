@@ -5,9 +5,20 @@ body{
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
-.gradient-btn{
+@mixin button-typography {
+    font-size: var(--switch-os-components-button-font-size);
+    font-weight: var(--switch-os-components-button-font-weight);
+    font-family: var(--switch-os-components-button-font-family);
+    color: var(--switch-os-components-button-primary-normal-text-color);
+}
+
+.btn-ptimary{
     --_btn-shadow-offset-x: var(--alias-shadows-offset-shadow-offsetx-0);
     --_btn-shadow-offset-y: var(--alias-shadows-offset-shadow-offsety-4);
     --_btn-shadow-blur-radius: var(--alias-blur-blursize-16);
@@ -20,13 +31,16 @@ body{
     justify-content: center;
     align-items: center;
     gap: var(--switch-os-components-button-gap);
+    cursor: pointer;
     border: none;
-    font-size: var(--switch-os-components-button-font-size);
-    font-weight: var(--switch-os-components-button-font-weight);
-    font-family: var(--switch-os-components-button-font-family);
     padding: var(--switch-os-components-button-padding-y) var(--switch-os-components-button-padding-x);
     border-radius: var(--switch-os-components-button-radius);
-    color: var(--switch-os-components-button-primary-normal-text-color);
     background: linear-gradient(0deg, var(--switch-os-components-button-primary-normal-bg-gradient-color2) 0%, var(--switch-os-components-button-primary-normal-bg-gradient-color1) 100%);
     box-shadow: var(--btn-shadow);
+
+    @include button-typography;
+
+        &:active{
+            background: var(--switch-os-components-button-primary-pressed-bg-color);
+        }
     }
