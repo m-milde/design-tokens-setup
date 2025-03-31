@@ -6,20 +6,21 @@ body{
     font-weight: normal;
     font-style: normal;
     display: flex;
+    flex-flow: column nowrap;
     align-items: center;
     justify-content: center;
+    gap: var(--alias-spacing-gap-gap-30);
     min-height: 100vh;
 }
 
 // Button styles
-.btn-ptimary{
+.sp-btn{
 
     // Define button typography
     @mixin button-typography {
         font-size: var(--switch-os-components-button-font-size);
         font-weight: var(--switch-os-components-button-font-weight);
         font-family: var(--switch-os-components-button-font-family);
-        color: var(--switch-os-components-button-primary-normal-text-color);
         letter-spacing: .01rem;
     }
 
@@ -35,7 +36,8 @@ body{
 
     // Apply drop shadow
     --btn-shadow: var(--_btn-shadow-offset-x) var(--_btn-shadow-offset-y) var(--_btn-shadow-blur-radius) var(--_btn-shadow-spread-radius) var(--_btn-shadow-color);
-    
+
+    // Button global styles
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -44,11 +46,30 @@ body{
     border: none;
     padding: var(--switch-os-components-button-padding-y) var(--switch-os-components-button-padding-x);
     border-radius: var(--switch-os-components-button-radius);
-    background: linear-gradient(0deg, var(--switch-os-components-button-primary-normal-bg-gradient-color2) 0%, var(--switch-os-components-button-primary-normal-bg-gradient-color1) 100%);
-    box-shadow: var(--btn-shadow);
+    
+    // Button Primary styles
+    &.sp-btn-ptimary{
+        background: linear-gradient(0deg, var(--switch-os-components-button-primary-normal-bg-gradient-color2) 0%, var(--switch-os-components-button-primary-normal-bg-gradient-color1) 100%);
+        color: var(--switch-os-components-button-primary-normal-text-color);
+        box-shadow: var(--btn-shadow);
+
+        &:active{
+            background: var(--switch-os-components-button-primary-pressed-bg-color);
+        }
+    }
+    
+    // Button Secondary styles
+    &.sp-btn-secondary{
+        background: transparent;
+        color: var(--switch-os-components-button-secondary-normal-text-color);
+        box-shadow: 0 0 0 1px var(--switch-os-components-button-secondary-normal-stroke-color);
+
+        &:active{
+            box-shadow: 0 0 0 1px var(--switch-os-components-button-secondary-pressed-stroke-color);   }
+    }
 
     &:active{
-        background: var(--switch-os-components-button-primary-pressed-bg-color);
-        box-shadow: none;transform: translateY(1px);
+        box-shadow: none;
+        transform: translateY(1px);
     }
 }
