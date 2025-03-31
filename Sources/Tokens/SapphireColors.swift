@@ -96,7 +96,7 @@ public struct SapphireColors {
     public static let switchOsComponentsInputDisabledInputIconColor = rootSecondaryColorsBrandSecondary250
     public static let switchOsComponentsInputDisabledTextColor = rootSecondaryColorsBrandSecondary250
     public static let switchOsComponentsButtonPrimaryNormalTextColor = rootNeutralColorsNeutral0
-    public static let switchOsComponentsButtonPrimaryNormalBgGradientColor1 = rootGradientColorsBrandGradinetColor2
+    public static let switchOsComponentsButtonPrimaryNormalBgGradientColor2 = rootGradientColorsBrandGradinetColor2
     public static let switchOsComponentsButtonPrimaryNormalIconColor = rootNeutralColorsNeutral0
     public static let switchOsComponentsButtonPrimaryPressedTextColor = rootNeutralColorsNeutral0
     public static let switchOsComponentsButtonPrimaryPressedIconColor = rootNeutralColorsNeutral0
@@ -356,9 +356,9 @@ public struct SapphireColors {
     public static let switchOsComponentsInputBorderRadius = aliasBorderRadiusBorderRadius8
     public static let switchOsComponentsInputSelectedInputStrokeColor = aliasPrimaryColorsAccentBrandDefault
     public static let switchOsComponentsInputSelectedInputIconColor = aliasPrimaryColorsAccentBrandDefault
-    public static let switchOsComponentsButtonPrimaryNormalBgGradientColor2 = rootGradientColorsBrandGradinetColor1
+    public static let switchOsComponentsButtonPrimaryNormalBgGradientColor1 = rootGradientColorsBrandGradinetColor1
     public static let switchOsComponentsButtonPrimaryPressedBgColor = aliasPrimaryColorsAccentBrandLight
-    public static let switchOsComponentsButtonRadius = aliasBorderRadiusBorderRadius8
+    public static let switchOsComponentsButtonRadius = aliasBorderRadiusBorderRadiusFull
     public static let switchOsComponentsButtonPaddingX = aliasSpacingPaddingPadding20
     public static let switchOsComponentsButtonGap = aliasSpacingGapGap10
     public static let switchOsComponentsButtonFontWeight = aliasFontWeightFontWeightRegular

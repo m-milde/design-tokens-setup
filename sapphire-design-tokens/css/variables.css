@@ -188,7 +188,7 @@
   --switch-os-components-input-size-h: var(--root-size-size-50);
   --switch-os-components-input-size-w: var(--root-size-size-350);
   --switch-os-components-button-primary-normal-text-color: var(--root-neutral-colors-neutral-0);
-  --switch-os-components-button-primary-normal-bg-gradient-color1: var(--root-gradient-colors-brand-gradinet-color-2);
+  --switch-os-components-button-primary-normal-bg-gradient-color2: var(--root-gradient-colors-brand-gradinet-color-2);
   --switch-os-components-button-primary-normal-icon-color: var(--root-neutral-colors-neutral-0);
   --switch-os-components-button-primary-pressed-text-color: var(--root-neutral-colors-neutral-0);
   --switch-os-components-button-primary-pressed-icon-color: var(--root-neutral-colors-neutral-0);
@@ -524,9 +524,9 @@
   --switch-os-components-input-border-radius: var(--alias-border-radius-border-radius-8);
   --switch-os-components-input-selected-input-stroke-color: var(--alias-primary-colors-accent-brand-default);
   --switch-os-components-input-selected-input-icon-color: var(--alias-primary-colors-accent-brand-default);
-  --switch-os-components-button-primary-normal-bg-gradient-color2: var(--root-gradient-colors-brand-gradinet-color-1);
+  --switch-os-components-button-primary-normal-bg-gradient-color1: var(--root-gradient-colors-brand-gradinet-color-1);
   --switch-os-components-button-primary-pressed-bg-color: var(--alias-primary-colors-accent-brand-light);
-  --switch-os-components-button-radius: var(--alias-border-radius-border-radius-8);
+  --switch-os-components-button-radius: var(--alias-border-radius-border-radius-full);
   --switch-os-components-button-padding-x: var(--alias-spacing-padding-padding-20);
   --switch-os-components-button-gap: var(--alias-spacing-gap-gap-10);
   --switch-os-components-button-font-weight: var(--alias-font-weight-font-weight-regular);

@@ -134,8 +134,8 @@
   <dimen name="switch_os_components_input_size_h">@dimen/root_size_size_50</dimen>
   <dimen name="switch_os_components_input_size_w">@dimen/root_size_size_350</dimen>
   <color name="switch_os_components_button_primary_normal_text_color">@color/root_neutral_colors_neutral_0</color>
-  <color name="switch_os_components_button_primary_normal_bg_gradient_color1">@color/root_gradient_colors_brand_gradinet_color_2</color>
-  <color name="switch_os_components_button_primary_normal_bg_gradient_color2">@color/root_gradient_colors_brand_gradinet_color_1</color>
+  <color name="switch_os_components_button_primary_normal_bg_gradient_color1">@color/root_gradient_colors_brand_gradinet_color_1</color>
+  <color name="switch_os_components_button_primary_normal_bg_gradient_color2">@color/root_gradient_colors_brand_gradinet_color_2</color>
   <color name="switch_os_components_button_primary_normal_icon_color">@color/root_neutral_colors_neutral_0</color>
   <color name="switch_os_components_button_primary_pressed_text_color">@color/root_neutral_colors_neutral_0</color>
   <color name="switch_os_components_button_primary_pressed_icon_color">@color/root_neutral_colors_neutral_0</color>
@@ -146,7 +146,7 @@
   <color name="switch_os_components_button_primary_destructive_text_color">@color/root_neutral_colors_neutral_0</color>
   <color name="switch_os_components_button_primary_destructive_icon_color">@color/root_neutral_colors_neutral_0</color>
   <color name="switch_os_components_button_primary_destructive_bg_color">@color/root_state_colors_negative_100</color>
-  <color name="switch_os_components_button_radius">@color/alias_border_radius_border_radius_8</color>
+  <color name="switch_os_components_button_radius">@color/alias_border_radius_border_radius_full</color>
   <color name="switch_os_components_button_padding_x">@color/alias_spacing_padding_padding_20</color>
   <dimen name="switch_os_components_button_height">@dimen/root_size_size_50</dimen>
   <color name="switch_os_components_button_gap">@color/alias_spacing_gap_gap_10</color>
